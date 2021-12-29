@@ -1,0 +1,63 @@
+Items are: Index 0 = 0
+Items are: Index 1 = 12
+Items are: Index 2 = 5
+Items are: Index 3 = 0
+Items are: Index 4 = 7
+
+Enter five integers one number per line:
+10
+20
+30
+40
+50
+Items are: Index 0 = 10
+Items are: Index 1 = 20
+Items are: Index 2 = 30
+Items are: Index 3 = 40
+Items are: Index 4 = 50
+The sum is 150
+The average is 30
+
+Enter five customers name: 
+A
+B
+C
+D
+E
+Name is: Index 0 = A
+Name is: Index 1 = B
+Name is: Index 2 = C
+Name is: Index 3 = D
+Name is: Index 4 = E
+
+Enter sales per line: 
+10
+2
+30
+40
+50
+60
+70
+2
+2
+i = 0 y = 0
+Value for sales is: 10
+i = 0 y = 1
+Value for sales is: 2
+i = 0 y = 2
+Value for sales is: 30
+i = 1 y = 0
+Value for sales is: 40
+i = 1 y = 1
+Value for sales is: 50
+i = 1 y = 2
+Value for sales is: 60
+i = 2 y = 0
+Value for sales is: 70
+i = 2 y = 1
+Value for sales is: 2
+i = 2 y = 2
+Value for sales is: 2
+The sum of sales is: 416
+The average of sales is: 138
+
