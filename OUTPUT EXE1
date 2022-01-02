@@ -1,0 +1,4 @@
+Original numeric array : [101, 227, 545, 880, 666, 900, 311, 22, 955, 1000, 283, 998]
+Sorted numeric array : [22, 101, 227, 283, 311, 545, 666, 880, 900, 955, 998, 1000]
+Original string array : [TNB, MAS, TRADEWINDS, PROTON, PETRONAS, SIMEDARBY, GRANTT, BSN, TM, MISC, YAB]
+Sorted string array : [BSN, GRANTT, MAS, MISC, PETRONAS, PROTON, SIMEDARBY, TM, TNB, TRADEWINDS, YAB]
