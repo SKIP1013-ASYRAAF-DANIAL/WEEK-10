@@ -1,0 +1,12 @@
+Amount are : list 0 = 5.0
+Amount are : list 1 = 5.0
+Amount are : list 2 = 5.0
+Amount are : list 3 = 5.0
+Amount are : list 4 = 5.0
+Amount are : list 5 = 5.0
+Amount are : list 6 = 5.0
+Amount are : list 7 = 5.0
+Amount are : list 8 = 5.0
+Amount are : list 9 = 5.0
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 10
+	at selfProgramming.Slide23.main(Slide23.java:15)
