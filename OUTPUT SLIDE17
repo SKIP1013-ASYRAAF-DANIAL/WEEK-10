@@ -1,0 +1,16 @@
+Enter sales
+23
+25
+23
+20
+10
+23
+12
+1
+14
+15
+Sales are : 23.0 25.0 23.0 20.0 10.0 23.0 12.0 1.0 14.0 15.0 
+The sum of sales is = 166.00
+The average of sales is = 16.60
+The largest of the sales is = 25.0
+The maxIndex is = 1
